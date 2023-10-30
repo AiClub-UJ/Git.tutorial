@@ -2,14 +2,13 @@
  Git is a distributed version control system for tracking code changes in software development. It allows developers to manage code, collaborate, and track project history. With features like branching and merging, 
  Git enables efficient collaboration and experimentation. It is widely used in the industry for effective code management.
  
-# A program provided by the Artificial Intelligence Club
-The objectives are:
+# The objectives
 1. Enable readers to understand and effectively use Git.
 2. Highlight the importance of Git in managing changes and collaboration in development projects.
 3. Enhance readers' practical skills in using fundamental Git commands.
 4. Encourage readers to apply Git in their personal or professional projects
 
-Key Topics:
+# Key Topics
 1. Introduction to Git:
    
 -Explanation of version control systems.
