@@ -10,7 +10,8 @@
 
 # Key Topics
 
-![image](https://github.com/AiClub-UJ/Git.tutorial/assets/146866270/49314bac-c981-49b9-a33e-de595e4e314c)
+![image](https://github.com/AiClub-UJ/Git.tutorial/assets/146866270/5e83f0eb-d6bc-4874-b2b5-126e6546fa73)
+
 
 
 # Outcome
