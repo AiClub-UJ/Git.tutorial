@@ -11,26 +11,31 @@ The objectives are:
 
 Key Topics:
 1. Introduction to Git:
+   
 -Explanation of version control systems.
 -Definition of Git and its features.
 -Understanding the distributed nature of Git and team collaboration in projects.
 
 2. Getting Started with Git:
+   
 -Setting up the development environment and installing Git.
 -Creating a new Git repository.
 -Adding files and tracking changes using Git.
 
 3. Fundamental Git Commands:
+   
 -Creating and switching between branches.
 -Committing changes and managing commit messages.
 -Reviewing the repository's history and changes using the commit log.
 
 4. Collaborating and Working with Git:
+   
 -Dealing with remote branches.
 -Pulling and pushing updates from/to remote repositories.
 -Resolving conflicts and merging changes.
 
 5. Advanced Concepts and Tools:
+   
 -Managing versions using tags.
 -Utilizing submodules and permissions.
 -Customizing Git configuration using configuration files.
