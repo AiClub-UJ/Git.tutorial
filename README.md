@@ -23,10 +23,10 @@ The student will be able to:
 # Information about the program.
 The program is presented by Dr. Saud Al-Sharif.
 
-Target Audience: The target audience for this program is specifically aimed at members of the Artificial Intelligence Club who have a beginner level of knowledge in the field.
+Target Audience: This program is aimed at members of the Artificial Intelligence Club who are beginners in the field.
 
 Capacity: The program can accommodate a maximum of 50 students per batch. 
 
 Duration: The program is designed to span over 2 days, conducted entirely online. During these two days, two separate batches will be conducted to ensure comprehensive coverage.
 
-Incentives: As a form of recognition, certified certificates will be provided to all participants upon successful completion of the program. These certificates will be issued by the Student Activities Unit, validating the participants' engagement and achievement
+Incentives: As a form of recognition, certified certificates will be provided to all participants upon successful completion of the program. These certificates will be issued by the Student Activities Unit, validating the participants' engagement and achievement.
