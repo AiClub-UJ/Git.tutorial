@@ -8,7 +8,8 @@
 4. Encourage readers to apply Git in their personal or professional projects
 
 # Key Topics
-![image](https://github.com/AiClub-UJ/Git.tutorial/assets/146866270/69891517-08b3-457b-8ff8-32a18cbb3060)
+![image](https://github.com/AiClub-UJ/Git.tutorial/assets/146866270/baf669bc-befd-4fe9-b3d0-f0f1db38fbe3)
+
 
 
 # Outcome
