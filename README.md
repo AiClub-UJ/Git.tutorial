@@ -9,36 +9,11 @@
 4. Encourage readers to apply Git in their personal or professional projects
 
 # Key Topics
-1. Introduction to Git:
-   
--Explanation of version control systems.
--Definition of Git and its features.
--Understanding the distributed nature of Git and team collaboration in projects.
 
-2. Getting Started with Git:
-   
--Setting up the development environment and installing Git.
--Creating a new Git repository.
--Adding files and tracking changes using Git.
+![image](https://github.com/AiClub-UJ/Git.tutorial/assets/146866270/49314bac-c981-49b9-a33e-de595e4e314c)
 
-3. Fundamental Git Commands:
-   
--Creating and switching between branches.
--Committing changes and managing commit messages.
--Reviewing the repository's history and changes using the commit log.
 
-4. Collaborating and Working with Git:
-   
--Dealing with remote branches.
--Pulling and pushing updates from/to remote repositories.
--Resolving conflicts and merging changes.
-
-5. Advanced Concepts and Tools:
-   
--Managing versions using tags.
--Utilizing submodules and permissions.
--Customizing Git configuration using configuration files.
-
+# Outcome
 The student will be able to:
 - Understand all the features of Git.
 - Use Git effectively in their future projects.
