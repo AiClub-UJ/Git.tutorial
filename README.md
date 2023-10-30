@@ -12,3 +12,13 @@ The student will be able to:
 - Familiarize themselves with Git scenarios and how to benefit from them.
 - Learn the commands used in Git.
 - Share code with others and collaborate on programming projects.
+
+Target audience: Members of the Artificial Intelligence Club.
+
+Level: Beginner.
+
+Capacity per batch: 50 students.
+
+Duration: 2 days (online), with two batches conducted within the two days.
+
+Incentives: Certified certificates will be provided by the Student Activities Unit.
