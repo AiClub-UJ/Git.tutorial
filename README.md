@@ -1,11 +1,14 @@
 # Git.tutorial
- Git is a prominent distributed version control system utilized in software development to monitor code modifications. It empowers developers to effectively manage codebases, collaborate with teammates, and maintain a comprehensive record of project history. By incorporating features such as branching and merging, Git facilitates seamless collaboration and facilitates experimentation with different code variations. Due to its robust capabilities for code management, Git has gained widespread adoption within the industry, contributing to efficient and organized software development practices.
+The Ai Club of the University of Jeddah offered the Git Tutorial, an educational program exclusively designed for its club members.
+The tutorial took place on October 26th and 27th, 2023, and was presented by Dr. Saud Al-Sharif.
+Git,as a prominent distributed version control system, empowers developers to engage in collaborative code management, fostering efficient software development practices.
+
  
 # The objectives
-1. Enable readers to understand and effectively use Git.
+1. Enable audience to understand and effectively use Git.
 2. Highlight the importance of Git in managing changes and collaboration in development projects.
-3. Enhance readers' practical skills in using fundamental Git commands.
-4. Encourage readers to apply Git in their personal or professional projects
+3. Enhance audience practical skills in using fundamental Git commands.
+4. Encourage audience to apply Git in their personal or professional projects
 
 # Key Topics
 ![image](https://github.com/AiClub-UJ/Git.tutorial/assets/146866270/baf669bc-befd-4fe9-b3d0-f0f1db38fbe3)
@@ -20,13 +23,6 @@ The student will be able to:
 - Learn the commands used in Git.
 - Share code with others and collaborate on programming projects.
 
-# Information about the program.
-The program is presented by Dr. Saud Al-Sharif.
-
-Target Audience: This program is aimed at members of the Artificial Intelligence Club who are beginners in the field.
-
-Capacity: The program can accommodate a maximum of 50 students per batch. 
-
+# Information about the program. 
 Duration: The program is designed to span over 2 days, conducted entirely online. During these two days, two separate batches will be conducted to ensure comprehensive coverage.
 
-Incentives: As a form of recognition, certified certificates will be provided to all participants upon successful completion of the program. These certificates will be issued by the Student Activities Unit, validating the participants' engagement and achievement.
